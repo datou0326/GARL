@@ -1,4 +1,4 @@
-# GARLSR
+# Exploiting Gaussian Agnostic Representation Learning with Diffusion Prior for Enhanced Infrared Small Target Detection
 
 ### Overview
 <img src="./figure/img.png" width=100%>
